@@ -24,7 +24,9 @@
 > 
 > 핵심 역할 : ﻿제안, 기획, 포인트 적립 시스템 정립, 담당 파트 기능 개발 및 디자인
 >> 사용 기술 :  ﻿Spring Boot, MyBatis, Java, JavaScript, SQL, API, html, css, json
+>> 
 >> 개발 환경 : ﻿Tomcat 8.5, Oracle DB
+>> 
 >> 사용 도구 :  ﻿Figma
 
 ---
@@ -34,7 +36,9 @@
 > 
 > 핵심 역할 : ﻿﻿제안, 기획, Framework 설계, 디자인, 담당 기능 개발
 >> 사용 기술 : ﻿﻿Spring Web, JSP, MyBatis, Java, JavaScript, SQL, MVC, API
+>> 
 >> 개발 환경 : ﻿Tomcat 8.5, Oracle DB, Eclipse
+>> 
 >> 사용 도구 :  ﻿﻿draw.io, Pencil, dbdiagram.io
 
 ---
@@ -45,7 +49,9 @@
 > 
 > 핵심 역할 : ﻿제안, 기획,﻿ Framework 설계, 담당 파트 기능 개발 및 전체 디자인
 >> 사용 기술 : JDBC, JavaSwing, SQL
+>> 
 >> 개발 환경 : ﻿﻿Tomcat 8.5, Oracle 18c, Eclipse, ojdbc8
+>> 
 >> 사용 도구 :  ﻿draw.io, Pencil
 
 ---
