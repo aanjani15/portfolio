@@ -63,15 +63,26 @@ Summits.co | 연구인턴 (2013.03 ~ 2014.02)
 
 ---
 
-## 🔨 보유 기술 (Tech Stack)
+## 🛠 Technology (보유 기술)
 
-Back-End: Java, Servlet, Spring Framework (MVC, MyBatis, Bean 관리), JDBC
-> Front-End: HTML5, CSS3 (Flexbox, Grid, 반응형), JavaScript (DOM 조작, 이벤트 처리), Bootstrap
-> Database: Oracle (DDL, DML, ERD 설계, PK/FK 제약조건, 시퀀스, 뷰)
-> AJAX & JSON: 비동기 통신, Rest API 응답 처리
-> Python: 데이터 분석, 머신러닝 기법, Matplotlib & pandas 활용 시각화
-> Linux: 기본 Shell 명령어, 권한 관리, 간단한 Bash 작성
-> ETC: JSTL, JSP, AOP
+| 기술분류 | 보유기술 |
+|----------|----------|
+| **JAVA** | - JAVA 기반 콘솔 / GUI 애플리케이션 개발 경험 <br> - Oracle DB와 JDBC 연동을 통해 CRUD 기능 구현 <br> - 사용자 정의 클래스 및 메소드를 활용한 프로그램 구현 경험 <br> - JAVA 기본 문법(제어문, 배열, 반복문, 컬렉션 등) 숙련 |
+| **ORACLE (DB)** | - DDL, DML, DCL 언어를 활용하여 데이터 정의, 조작, 제어 경험 <br> - 사용자 정의 함수, 시퀀스, 인덱스, 뷰 활용 경험 <br> - JOIN, 서브쿼리, GROUP BY, HAVING 등의 SQL 언어 활용 경험 <br> - JAVA를 ORACLE DB랑 연동하여 JDBC 활용하여 CRUD 처리 <br> - 테이블 ERD 구조 작성 <br> - 테이블 컬럼 기본키, 외래키, 제약조건 지정 |
+| **HTML** | - HTML5 언어를 활용하여 웹페이지 구조 설계 <br> - 반응형 웹을 활용하여 다양한 해상도에 적용 가능한 UI 설계 <br> - 웹 접근성과 웹 표준을 고려한 마크업 작성 경험 |
+| **CSS** | - 색상, 여백, 폰트 등의 디자인 요소를 활용한 UI 구성 경험 <br> - HTML과 연동하여 정적 웹사이트 구성 <br> - Flexbox와 Grid를 이용한 반응형 레이아웃 구현 |
+| **JavaScript** | - 동적인 웹페이지 기능 구현 (이벤트 처리, DOM 조작) <br> - addEventListener, onclick 등 다양한 이벤트 핸들러 사용 경험 <br> - setInterval을 활용한 시간 처리 <br> - 배열, 조건문, 반복문 등 기본 문법을 활용하여 로직 구성 <br> - 사용자 입력 값 유효성 검사 기능 구현 |
+| **JSON** | - JSON.stringify()를 활용한 객체 변환 처리 <br> - REST API 응답 데이터를 JSON 형식으로 가져와 DOM에 동적 저장 <br> - AJAX를 활용하여 JSON 데이터를 비동기 통신 처리 |
+| **AJAX** | - 페이지 새로고침 없이 서버와 데이터 비동기 통신 구현 <br> - 요청 실패/성공 시 콜백(success, error) 처리 경험 <br> - Java(Spring) 백엔드와 연동하여 AJAX 기반 CRUD 기능 구현 |
+| **Linux** | - chmod를 통한 권한 제어 경험 <br> - 기본 shell 명령어(ls, dir, ps 등) 사용 경험 <br> - 간단한 BASH 프로그램 작성 경험 |
+| **Bootstrap** | - 반응형 웹 구현 <br> - 네비게이션 바, 모달 창 등 UI 컴포넌트 활용 <br> - JS 플러그인 연동 (슬라이더, 탭) 경험 |
+| **AOP** | - BEAN 객체를 활용한 보안 처리 경험 <br> - annotation 기반 보안 예외 처리 <br> - JOINPOINT, POINTCUT 활용 경험 |
+| **Python** | - 조건문, 반복문, 배열 등 기본 문법 활용 능력 <br> - 회귀 알고리즘 구현 및 시각화 경험 <br> - 머신러닝 기법을 활용한 데이터 예측 모델 개발 <br> - Matplotlib, pandas 기반 시각화 경험 <br> - 통계 분석 및 가설 검정 경험 |
+| **Servlet** | - Java Servlet 기반 웹 애플리케이션 개발 경험 <br> - HTTP 요청/응답 처리, 세션 관리 <br> - JSP와 연동한 동적 웹 페이지 구현 경험 <br> - Spring MVC 모델 활용 경험 |
+| **Spring Framework** | - MVC 패턴 기반 개발 <br> - MyBatis 연동 및 CRUD 처리 <br> - Spring Boot 기반 프로그램 구축 (내장 톰캣 활용) <br> - 의존성 주입(DI) 및 Bean 관리 경험 |
+| **JSTL** | - JSTL Core 태그 활용 (c:if, c:choose, c:forEach 등) <br> - EL 활용 (JSP 내 변수 처리 및 출력) <br> - fmt 태그를 이용한 숫자 단위 지정(천 단위 콤마) |
+| **JSP** | - MVC 패턴 기반 JSP & Servlet 개발 경험 <br> - JSP + JSTL을 활용한 동적 웹 페이지 작성 <br> - 스크립틀릿(`<%= ... %>`) 활용 경험 |
+
 
 ---
 
