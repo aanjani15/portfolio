@@ -63,13 +63,6 @@ Summits.co | 연구인턴 (2013.03 ~ 2014.02)
 
 ---
 
-## 🌱 기타 활동 (Activities)
-
-> 파주 보육원 봉사활동 (2013.03 ~ 2013.12)
-> 영어달인 프로젝트 동아리 (원서 읽기, Speaking, Speech) (2013.03 ~ 2015.03)
-
----
-
 ## 🔨 보유 기술 (Tech Stack)
 
 Back-End: Java, Servlet, Spring Framework (MVC, MyBatis, Bean 관리), JDBC
