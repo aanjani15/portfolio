@@ -31,7 +31,7 @@
 
 ---
 ### [Dasi,Bom (온라인 서점)](./DasiBom/README.md)
-[![BookStore 보러가기](./images/dasibom_thumb.png)](./BookStore/README.md)
+[![Dasi,Bom 보러가기](./images/dasibom_thumb.png)](./BookStore/README.md)
 > 개발기간 : ﻿﻿2025.06.10 ~ 2025.06.30 (총 23일)
 > 
 > 핵심 역할 : ﻿﻿제안, 기획, Framework 설계, 디자인, 담당 기능 개발
@@ -48,7 +48,8 @@
 > 개발기간 : ﻿﻿2025.04.15 ~ 2025.04.28 (총 15일)
 > 
 > 핵심 역할 : ﻿제안, 기획,﻿ Framework 설계, 담당 파트 기능 개발 및 전체 디자인
->> 사용 기술 : JDBC, JavaSwing, SQL >> 
+>> 사용 기술 : JDBC, JavaSwing, SQL
+>> 
 >> 개발 환경 : ﻿﻿Tomcat 8.5, Oracle 18c, Eclipse, ojdbc8
 >> 
 >> 사용 도구 :  ﻿draw.io, Pencil
