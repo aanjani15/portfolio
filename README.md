@@ -18,18 +18,32 @@
 
 ## 🚀 프로젝트 목록
 
-### [Little Forest (환경 포인트 플랫폼)](./LittleForest/README.md)
+### 1. Little Forest (환경 포인트 플랫폼)
 [![Little Forest 썸네일](./images/littleforest_thumb.png)](https://github.com/aanjani15/portfolio-littleforest)
+> 개발기간 : ﻿2025.07.23 ~ 2025.09.08 (총 44일)
+> 핵심 역할 : ﻿제안, 기획, 포인트 적립 시스템 정립, 담당 파트 기능 개발 및 디자인
+>> 사용 기술 :  ﻿Spring Boot, MyBatis, Java, JavaScript, SQL, API, html, css, json
+>> 개발 환경 : ﻿Tomcat 8.5, Oracle DB
+>> 사용 도구 :  ﻿Figma
+
+---
+### [Dasi,Bom (온라인 서점)](./DasiBom/README.md)
+[![BookStore 썸네일](./images/dasibom_thumb.png)](./BookStore/README.md)
+> 개발기간 : ﻿﻿2025.06.10 ~ 2025.06.30 (총 23일)
+> 핵심 역할 : ﻿﻿제안, 기획, Framework 설계, 디자인, 담당 기능 개발
+>> 사용 기술 : ﻿﻿Spring Web, JSP, MyBatis, Java, JavaScript, SQL, MVC, API
+>> 개발 환경 : ﻿Tomcat 8.5, Oracle DB, Eclipse
+>> 사용 도구 :  ﻿﻿draw.io, Pencil, dbdiagram.io
 
 ---
 
 ### [MatjipOn (맛집 관리 시스템)](./MatjipOn/README.md)
 [![MatjipOn 썸네일](./images/matjipon_thumb.png)](./MatjipOn/README.md)
-
----
-
-### [Dasi,Bom (온라인 서점)](./DasiBom/README.md)
-[![BookStore 썸네일](./images/dasibom_thumb.png)](./BookStore/README.md)
+> 개발기간 : ﻿﻿2025.04.15 ~ 2025.04.28 (총 15일)
+> 핵심 역할 : ﻿제안, 기획,﻿ Framework 설계, 담당 파트 기능 개발 및 전체 디자인
+>> 사용 기술 : JDBC, JavaSwing, SQL
+>> 개발 환경 : ﻿﻿Tomcat 8.5, Oracle 18c, Eclipse, ojdbc8
+>> 사용 도구 :  ﻿draw.io, Pencil
 
 ---
 
@@ -108,10 +122,8 @@ Back-End: Java, Servlet, Spring Framework (MVC, MyBatis, Bean 관리), JDBC
 > 경영학적 분석력 + 영어영문학 기반의 커뮤니케이션 역량 →
 > 글로벌 경쟁력을 갖춘 서비스 기여
 
-
 ---
 ## 📝Projects
-
 
 ## MatjipOn (맛집 관리 시스템)
 - **기간** : 2025.03 ~ 2025.05  
@@ -146,10 +158,6 @@ Back-End: Java, Servlet, Spring Framework (MVC, MyBatis, Bean 관리), JDBC
   - 로그인 세션 관리 및 구매 로직
 - **기술 스택**
   - Java, JSP/Servlet, Oracle, jQuery
-
-
-
-
 
 ---
 📫 Contact
