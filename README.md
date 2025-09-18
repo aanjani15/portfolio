@@ -17,13 +17,14 @@
 ---
 
 ## 🚀 프로젝트 목록
-### [MatjipOn (맛집 관리 시스템)](./MatjipOn/README.md)
-[![MatjipOn 썸네일](./images/matjipon_thumb.png)](./MatjipOn/README.md)
+
+### [Little Forest (환경 포인트 플랫폼)](./LittleForest/README.md)
+[![Little Forest 썸네일](./images/littleforest_thumb.png)](./littleforest/README.md)
 
 ---
 
-### [Little Forest (환경 포인트 플랫폼)](./LittleForest/README.md)
-[![Little Forest 썸네일](./images/littleforest_thumb.png)](./LittleForest/README.md)
+### [MatjipOn (맛집 관리 시스템)](./MatjipOn/README.md)
+[![MatjipOn 썸네일](./images/matjipon_thumb.png)](./MatjipOn/README.md)
 
 ---
 
