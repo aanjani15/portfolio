@@ -30,7 +30,7 @@
 >> 사용 도구 :  ﻿Figma
 
 ---
-### [Dasi,Bom (온라인 서점)](./DasiBom/README.md)
+### 2. Dasi,Bom (온라인 서점)
 [![Dasi,Bom 보러가기](./images/dasibom_thumb.png)](./BookStore/README.md)
 > 개발기간 : ﻿﻿2025.06.10 ~ 2025.06.30 (총 23일)
 > 
@@ -43,7 +43,7 @@
 
 ---
 
-### [MatjipOn (맛집 관리 시스템)](./MatjipOn/README.md)
+### 3. MatjipOn (맛집 관리 시스템)
 [![MatjipOn 보러가기](./images/matjipon_thumb.png)](./MatjipOn/README.md)
 > 개발기간 : ﻿﻿2025.04.15 ~ 2025.04.28 (총 15일)
 > 
