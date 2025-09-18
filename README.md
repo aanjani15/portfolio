@@ -27,8 +27,9 @@
 
 ---
 
-### [BookStore (온라인 서점)](./BookStore/README.md)
-[![BookStore 썸네일](./images/bookstore_thumb.png)](./BookStore/README.md)
+### [Dasi,Bom (온라인 서점)](./DasiBom/README.md)
+[![BookStore 썸네일](./images/dasibom_thumb.png)](./BookStore/README.md)
+
 ---
 
 ## 👩🏻‍💻 소개 (About Me)
