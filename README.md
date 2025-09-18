@@ -82,7 +82,7 @@ Summits.co | 연구인턴 (2013.03 ~ 2014.02)
 | **Spring Framework** | - MVC 패턴 기반 개발 <br> - MyBatis 연동 및 CRUD 처리 <br> - Spring Boot 기반 프로그램 구축 (내장 톰캣 활용) <br> - 의존성 주입(DI) 및 Bean 관리 경험 |
 | **JSTL** | - JSTL Core 태그 활용 (c:if, c:choose, c:forEach 등) <br> - EL 활용 (JSP 내 변수 처리 및 출력) <br> - fmt 태그를 이용한 숫자 단위 지정(천 단위 콤마) |
 | **JSP** | - MVC 패턴 기반 JSP & Servlet 개발 경험 <br> - JSP + JSTL을 활용한 동적 웹 페이지 작성 <br> - 스크립틀릿(`<%= ... %>`) 활용 경험 |
-
+| **API** | - Kakao MAp API <br> - PortOne(kakaopay) 결제 API <br> -NetZero Point API (CODEF), Deepl API 번역 기능 활용 경험 |
 
 ---
 
