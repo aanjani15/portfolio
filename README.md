@@ -4,7 +4,17 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-portfolio-blue?logo=github)](https://github.com/aanjani15/portfolio.git)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
@@ -123,8 +133,9 @@
 ## 🏆 자격증 및 수상 (Certificates & Awards)
 - 핀테크 교육과정 우수인재 선정 – KG ITBANK (2025.09)
 - 정보처리기사 (필기 합격) – 한국산업인력공단 (2025.06)
+- TOEIC 880점 – ETS (2025.09)
 - 한국사능력검정시험 1급 – 국사편찬위원회 (2017.08)
-- TOEIC 875점 – ETS (2018.07)
+
 
 ---
 
